@@ -7,6 +7,7 @@
     <title>choix</title>
 </head>
 <body>
+    <a href="admin.php">administrer</a>
     <form method="post" action="index.php?action=reponse">
             <label for="pet-select">Choisissez votre signe:</label>
 
